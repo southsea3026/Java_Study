@@ -15,9 +15,6 @@ println
 		System.out.println(12+12);
 		
 	}
-	
-}
-
 
 실행 시 24가 나온다
 
