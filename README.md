@@ -10,11 +10,11 @@ println
 
 ""
 
-public static void main(String[] args) {
+	public static void main(String[] args) {
 	
-	System.out.println(12+12);
+		System.out.println(12+12);
 		
-}
+	}
 
 실행 시 24가 나온다
 
